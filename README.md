@@ -8,7 +8,7 @@ To to that we focused on three main steps: Data Understanding, where we draw som
 **Python Version:** 3.9.5  
 **Packages:** pandas, numpy, matplotlib, seaborn
 
-## Data Preparation
+## Data Understading
 
 ### **What are the features available in the dataset?** ###
 
