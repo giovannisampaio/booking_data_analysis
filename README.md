@@ -2,10 +2,10 @@
 
 In this project we analyzed a generic dataset with no clear definitions with the objective of generate insights and tell a history on it.
 
-To do that we focused on three main steps: 
+To do that we followed three main steps: 
 1. Data Understanding: where we draw some basic initial assumptions about the dataset;
-2. Data Preparation, where we adjust our data set by cleaning, completing and adding features;
-3. Exploratory Data Analysis (EDA), where we deepen our understanding about the dataset by relying on Pivote tables and Data Visualization techniques.
+2. Data Preparation: where we adjust our data set by cleaning, completing and adding features;
+3. Exploratory Data Analysis (EDA): where we deepen our understanding about the dataset by relying on Pivote tables and Data Visualization techniques.
 
 ## Code and Resources 
 **Python Version:** 3.9.5  
@@ -42,7 +42,7 @@ Missing values
 
 * Replaced NA values on column 'orig_destination_distance' by values in a sample from existing values in order to not impact the exponential distribution observed for the feature
 
-## Exploratory Data Analysis
+## EDA
 
 First we confirm some assumptions about the location data:
 *	'hotel cluster' is not contrained by location, as the same cluster can include several cotinents and countries
