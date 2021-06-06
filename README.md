@@ -2,7 +2,10 @@
 
 In this project we analyzed a generic dataset with no clear definitions with the objective of generate insights and tell a history on it.
 
-To to that we focused on three main steps: Data Understanding, where we draw some basic initial assumptions about the dataset, Data Preparation, where we adjust our data set by cleaning, completing and adding features, and finally, the focus of this project, the Exploratory Data Analysis (EDA), where we deepen our understanding about the dataset by relying on Pivote tables and Data Visualization techniques.
+To do that we focused on three main steps: 
+1. Data Understanding: where we draw some basic initial assumptions about the dataset;
+2. Data Preparation, where we adjust our data set by cleaning, completing and adding features;
+3. Exploratory Data Analysis (EDA), where we deepen our understanding about the dataset by relying on Pivote tables and Data Visualization techniques.
 
 ## Code and Resources 
 **Python Version:** 3.9.5  
@@ -76,8 +79,3 @@ One of the most useful data visualization for numerical data is the correlation 
 
 
 
-
-
-
-
-## Conclusion
