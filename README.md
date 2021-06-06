@@ -77,5 +77,14 @@ One of the most useful data visualization for numerical data is the correlation 
 * From the visualization above we can gather that, apart from the more obvious relationship between number of adults and number of rooms, there is a significant positive correlation between package bookings and number of days of stay.
 * There is also some positive correaltion between number of days in advance of the booking the distance of origin, the number of people (adults and children) and the number of days of stay.
 
+We can also visualize the number of check-ins booked over time. Most checkins are from september 2013 to January 2014:
+
+![imagem](https://user-images.githubusercontent.com/18421068/120939936-68694400-c712-11eb-843a-07a3cbe71157.png)
+
+The date with the highest number of reservations being 27-12-2013:
+
+![imagem](https://user-images.githubusercontent.com/18421068/120940006-d4e44300-c712-11eb-844c-710dfabdca09.png)
+
+
 
 
