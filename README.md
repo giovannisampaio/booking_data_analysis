@@ -4,7 +4,7 @@
 **Python Version:** 3.9.5  
 **Packages:** pandas, numpy, matplotlib, seaborn
 
-## Data Understanding
+## Data Preparation
 
 ### **What are the features available in the dataset?** ###
 
