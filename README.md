@@ -67,8 +67,8 @@ One of the most useful data visualization for numerical data is the correlation 
 
 ![imagem](https://user-images.githubusercontent.com/18421068/120937535-e8d57800-c705-11eb-97b4-992d445f4d28.png)
 
-* From the visualization above we can gather that, apart from the more obvious relationship between number of adults and number of rooms, there is a significant positive correlation between package bookings and number of stay days.
-* There is also some positive correaltion between number of days in advance of the booking the distance of origin, the number of people (adults and children) and the number of stay days.
+* From the visualization above we can gather that, apart from the more obvious relationship between number of adults and number of rooms, there is a significant positive correlation between package bookings and number of days of stay.
+* There is also some positive correaltion between number of days in advance of the booking the distance of origin, the number of people (adults and children) and the number of days of stay.
 
 
 
