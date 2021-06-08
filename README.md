@@ -4,7 +4,7 @@ In this project we analyzed a generic dataset with no clear definitions with the
 
 To do that we followed three main steps: 
 1. Data Understanding: where we draw some basic initial assumptions about the dataset;
-2. Data Preparation: where we adjust our data set by cleaning, completing and adding features: https://github.com/giovannisampaio/booking_data_analysis/blob/main/clean_data.csv
+2. Data Preparation: where we adjust our data set by cleaning, completing and adding features: https://github.com/giovannisampaio/booking_data_analysis/blob/main/clean_data.ipynb
 3. Exploratory Data Analysis (EDA): where we deepen our understanding about the dataset by relying on Pivote tables and Data Visualization techniques: https://github.com/giovannisampaio/booking_data_analysis/blob/main/eda.ipynb
 
 ## Code and Resources 
